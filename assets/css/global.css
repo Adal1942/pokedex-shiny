@@ -89,13 +89,13 @@ body{
 .number{
     color: #000;
     text-align: right;
-    opacity: .3;
-    font-size: .625rem;
+    opacity: .4;
+    font-size: .725rem;
 }
 
 .name{
     color: #fff;
-    margin-bottom: .25rem;
+    margin-bottom: .35rem;
     text-transform: capitalize;
 }
 
